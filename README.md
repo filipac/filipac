@@ -8,6 +8,20 @@
 
 #### Latest blog posts
 
+<ul>
+<li><a href=https://pacurar.dev/building-something-practical-with-web3/>Building something practical with Web3</a></li>
+<li><a href=https://pacurar.dev/artificial-scarcity/>Artificial scarcity</a></li>
+<li><a href=https://pacurar.dev/new-monitor-in-setup/>New monitor in setup</a></li>
+<li><a href=https://pacurar.dev/the-start-of-the-year-is-expensive/>The start of the year is expensive</a></li>
+<li><a href=https://pacurar.dev/haikus-about-rain/>Haikus about rain</a></li>
+<li><a href=https://pacurar.dev/why-do-i-write-on-this-blog/>Why do I write on this blog</a></li>
+<li><a href=https://pacurar.dev/what-brings-me-joy/>What brings me joy</a></li>
+<li><a href=https://pacurar.dev/what-is-a-treasure-thats-been-lost/>What is a treasure that’s been lost?</a></li>
+<li><a href=https://pacurar.dev/buble-gum-and-adventures/>Buble gum and adventures</a></li>
+<li><a href=https://pacurar.dev/am-i-really-brave/>Am I really brave?</a></li>
+</ul>
+
+[📑 ➡️ More blog posts](https://pacurar.dev/blog)
 
 #### Buy me a coffee
 On my blog (both Romanian or English versions) you can find sections where you can pay with USDc or USDt on the MultiversX blockchain and in return you get that space for 10 days to advertise whatever you want.
