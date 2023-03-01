@@ -61,67 +61,67 @@ If you want to see more of my work in private, send me an email to filip@pacurar
 Enough chit-chat! Let me show you a subset of my portofolio now.
 
 <table style="width:100%; border-collapse: collapse; border: none;" border="0"><tr><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Arad-gardens.ro</p>
 <p style="text-align: center; width: 100%;">Next.js, React, Tailwind CSS</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/arad-gardens-roff.png?fit=1000%2C889&ssl=1" style="width: 100%; height: auto;" />
 </td><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">My personal website</p>
 <p style="text-align: center; width: 100%;">Javascript, Laravel, PHP, Tailwind CSS, Wordpress</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/pacurar.net_.png?fit=1677%2C1308&ssl=1" style="width: 100%; height: auto;" />
 </td></tr><tr><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Biserica Sega</p>
 <p style="text-align: center; width: 100%;">Bootstrap, Javascript, PHP</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/frame_edge_light.png?fit=1236%2C1474&ssl=1" style="width: 100%; height: auto;" />
 </td><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Neurolingua Kids</p>
 <p style="text-align: center; width: 100%;">Java, React Native, Swift, Typescript</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/nkids.jpg?fit=1000%2C750&ssl=1" style="width: 100%; height: auto;" />
 </td></tr><tr><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Neurolingua landing page</p>
 <p style="text-align: center; width: 100%;">Node, Nuxt.js, VueJS</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/frame_edge_dark-1.png?fit=1575%2C1812&ssl=1" style="width: 100%; height: auto;" />
 </td><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Neurolingua Web App</p>
 <p style="text-align: center; width: 100%;">GraphQL, Laravel, PHP, ReactJS</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/Screenshot-2021-02-11-at-06.31.45.png?fit=1602%2C1224&ssl=1" style="width: 100%; height: auto;" />
 </td></tr><tr><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Neurolingua Mobile</p>
 <p style="text-align: center; width: 100%;">Java, Javascript, React Native, Swift</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/neurolingua-app.jpeg?fit=1200%2C800&ssl=1" style="width: 100%; height: auto;" />
 </td><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Infinitymusic.ro</p>
 <p style="text-align: center; width: 100%;">Bootstrap, Javascript, October CMS, PHP</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/infinitymusic.jpg?fit=1585%2C1135&ssl=1" style="width: 100%; height: auto;" />
 </td></tr><tr><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Harvest Card management system</p>
 <p style="text-align: center; width: 100%;">GraphQL, Javascript, PHP, ReactJS, Wordpress</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/frame_opera_mac_dark.png?fit=1506%2C1276&ssl=1" style="width: 100%; height: auto;" />
 </td><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Bible API</p>
 <p style="text-align: center; width: 100%;">PHP</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/Screenshot-2021-02-11-at-04.52.49.png?fit=1173%2C968&ssl=1" style="width: 100%; height: auto;" />
 </td></tr><tr><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">OctoberCMS Plugins</p>
 <p style="text-align: center; width: 100%;">October CMS, PHP</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/Screenshot-2021-02-11-at-06.24.51.png?fit=831%2C771&ssl=1" style="width: 100%; height: auto;" />
 </td><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Personal vCard website</p>
 <p style="text-align: center; width: 100%;">Bootstrap, VueJS</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/Screenshot-2021-02-11-at-06.28.23.png?fit=1594%2C1218&ssl=1" style="width: 100%; height: auto;" />
 </td></tr><tr><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Ruby Gem - CNP Validator</p>
 <p style="text-align: center; width: 100%;">Ruby</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/Screenshot-2021-02-11-at-06.00.22.png?fit=1038%2C981&ssl=1" style="width: 100%; height: auto;" />
 </td><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Tanatopraxie.ro</p>
 <p style="text-align: center; width: 100%;">Basic Css, October CMS, PHP</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/tanatopraxie.png?fit=1144%2C1362&ssl=1" style="width: 100%; height: auto;" />
 </td></tr><tr><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Tanatotehnic</p>
 <p style="text-align: center; width: 100%;">Bootstrap, PHP, Wordpress</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/frame_safari_dark.png?fit=1579%2C1079&ssl=1" style="width: 100%; height: auto;" />
 </td><td>
-<p style="font-weight: bold; text-align: center; width: 100%;"></p>
+<p style="font-weight: bold; text-align: center; width: 100%;">Various payment pages</p>
 <p style="text-align: center; width: 100%;">Laravel, Tailwind CSS</p>
 <img src="https://i0.wp.com/pacurar.dev/wp-content/uploads/2021/02/Screenshot-2021-02-11-at-06.35.54.png?fit=939%2C1075&ssl=1" style="width: 100%; height: auto;" />
 </td></tr></table>
