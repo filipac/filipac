@@ -73,11 +73,9 @@ async function getMyWork() {
         }
 
         string += `<td>
-<div style="font-weight: bold; text-align: center; width: 100%;">${work.title}</div>
-<div style="text-align: center; width: 100%;">${work.categories}</div>
-<div>
+#### ${work.title}
+##### ${work.categories}
 <img src="${work.image}" style="width: 100%; height: auto;" />
-</div>
 </td>`;
         column++;
     }
