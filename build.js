@@ -145,11 +145,12 @@ Most of my projects are under some terms though and I cannot publicly share them
 <li>Private social media for a niche category</li>
 <li>Backend for an international singer</li>
 
+
 Those are just a few examples of things that kept me busy since 2018, all done as contractor.
 
 If you want to see more of my work in private, send me an email to filip@pacurar.dev and we'll chat more about your digital needs too.
 
-Enough chit-chat! Let me show you a subset of my portofolio now. You can also filter those projects by the technologies used.
+Enough chit-chat! Let me show you a subset of my portofolio now.
 
 ${myWork}
 
