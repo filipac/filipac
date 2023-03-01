@@ -112,6 +112,8 @@ If you like my work, please consider buying me a coffee by buying an ad space. T
 
 👷‍♂️ At 12 years old I forked a torrent tracker PHP script to make it suit my needs, in fact it is still around here on Github and on Sourceforge.
 
+📖 Open source. I strongly believe in open source and I have contributed to many projects over the years. Not as much as I would like to, but I try to contribute as much as I can. Also, I try to open source my own projects as much as I can (eg: the blog theme with all its logic, smart contracts that I develop, etc.)
+
 🚧 I currently work daily with these technologies:
 
 - PHP
