@@ -1,0 +1,23 @@
+{
+  "name": "filipac",
+  "version": "1.0.0",
+  "description": "![Filip Pacurar](https://raw.githubusercontent.com/filipac/filipac/main/top.svg)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipac/filipac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipac/filipac/issues"
+  },
+  "homepage": "https://github.com/filipac/filipac#readme",
+  "dependencies": {
+    "node-fetch": "^2.0",
+    "rss-parser": "^3.8.0"
+  }
+}
