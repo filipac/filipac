@@ -67,10 +67,10 @@ async function getMyWork() {
             continue;
         }
 
-        // if (column === 2) {
-        //     string += `</tr><tr>`;
-        //     column = 0;
-        // }
+        if (column === 2) {
+            string += `</tr><tr>`;
+            column = 0;
+        }
 
         string += `<td>
 <div style="font-weight: bold; text-align: center; width: 100%;">${work.title}</div>
@@ -79,7 +79,7 @@ async function getMyWork() {
 <img src="${work.image}" style="width: 100%; height: auto;" />
 </div>
 </td>`;
-        // column++;
+        column++;
     }
 
     string += `</tr></table>`;
