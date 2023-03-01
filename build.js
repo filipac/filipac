@@ -57,10 +57,10 @@ async function getMyWork() {
     });
     const data = await results.json();
 
-    let string = `<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 1rem;">`;
+    let string = `<table style="width:100%; border-collapse: collapse; border: none;" border="0"><tr>`;
 
     // maximum two columns
-    // let column = 0;
+    let column = 0;
 
     for (const work of data) {
         if (!work.categories) {
@@ -72,17 +72,17 @@ async function getMyWork() {
         //     column = 0;
         // }
 
-        string += `<div>
+        string += `<td>
 <div style="font-weight: bold; text-align: center; width: 100%;">${work.title}</div>
 <div style="text-align: center; width: 100%;">${work.categories}</div>
 <div>
 <img src="${work.image}" style="width: 100%; height: auto;" />
 </div>
-</div>`;
+</td>`;
         // column++;
     }
 
-    string += `</div>`;
+    string += `</tr></table>`;
 
     return string;
 
