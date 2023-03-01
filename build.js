@@ -87,7 +87,7 @@ async function getMyWork() {
 }
 
 async function build() {
-    let posts = ''; //await loadBlogPosts();
+    let posts = await loadBlogPosts();
     let boardGames = await getBoardGames();
     let myWork = await getMyWork();
     let md = `![Filip Pacurar](https://raw.githubusercontent.com/filipac/filipac/main/top.svg)
