@@ -9,6 +9,7 @@
 #### Latest blog posts
 
 <ul>
+<li><a href=https://pacurar.dev/syntax-fm-joins-sentry/>Syntax.fm joins Sentry</a></li>
 <li><a href=https://pacurar.dev/in-simple-terms-how-does-a-crypto-wallet-work-how-does-the-blockchain-work-and-how-can-you-be-hacked/>In simple terms: How does a crypto wallet work, how does the blockchain work, and how can you be hacked?</a></li>
 <li><a href=https://pacurar.dev/burnouts-in-web-development/>Burnouts in web development</a></li>
 <li><a href=https://pacurar.dev/building-something-practical-with-web3/>Building something practical with Web3</a></li>
@@ -18,7 +19,6 @@
 <li><a href=https://pacurar.dev/haikus-about-rain/>Haikus about rain</a></li>
 <li><a href=https://pacurar.dev/why-do-i-write-on-this-blog/>Why do I write on this blog</a></li>
 <li><a href=https://pacurar.dev/what-brings-me-joy/>What brings me joy</a></li>
-<li><a href=https://pacurar.dev/what-is-a-treasure-thats-been-lost/>What is a treasure that’s been lost?</a></li>
 </ul>
 
 [📑 ➡️ More blog posts](https://pacurar.dev/blog)
