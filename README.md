@@ -9,16 +9,16 @@
 #### Latest blog posts
 
 <ul>
-<li><a href=https://pacurar.dev/syntax-fm-joins-sentry/>Syntax.fm joins Sentry</a></li>
-<li><a href=https://pacurar.dev/in-simple-terms-how-does-a-crypto-wallet-work-how-does-the-blockchain-work-and-how-can-you-be-hacked/>In simple terms: How does a crypto wallet work, how does the blockchain work, and how can you be hacked?</a></li>
-<li><a href=https://pacurar.dev/burnouts-in-web-development/>Burnouts in web development</a></li>
-<li><a href=https://pacurar.dev/building-something-practical-with-web3/>Building something practical with Web3</a></li>
-<li><a href=https://pacurar.dev/artificial-scarcity/>Artificial scarcity</a></li>
-<li><a href=https://pacurar.dev/new-monitor-in-setup/>New monitor in setup</a></li>
-<li><a href=https://pacurar.dev/the-start-of-the-year-is-expensive/>The start of the year is expensive</a></li>
-<li><a href=https://pacurar.dev/haikus-about-rain/>Haikus about rain</a></li>
-<li><a href=https://pacurar.dev/why-do-i-write-on-this-blog/>Why do I write on this blog</a></li>
-<li><a href=https://pacurar.dev/what-brings-me-joy/>What brings me joy</a></li>
+<li><a href=https://pacurar.dev/a-new-flow-for-my-blog-posts/>A new “flow” for my blog posts</a></li>
+<li><a href=https://pacurar.dev/is-it-worth-upgrading-your-iphone-every-year-a-personal-take/>Is It Worth Upgrading Your iPhone Every Year? A Personal Take</a></li>
+<li><a href=https://pacurar.dev/my-thoughts-on-vibe-coding-and-indie-hackers/>My Thoughts on Vibe Coding and Indie Hackers</a></li>
+<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-7/>CEAC Updates – DV2025 week #7</a></li>
+<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-6/>CEAC Updates – DV2025 week #6</a></li>
+<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-5/>CEAC Updates – DV2025 week #5</a></li>
+<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-4/>CEAC Updates – DV2025 week #4</a></li>
+<li><a href=https://pacurar.dev/morning-thoughts-1/>Morning thoughts #1</a></li>
+<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-3/>CEAC Updates – DV2025 week #3</a></li>
+<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-2/>CEAC Updates – DV2025 week #2</a></li>
 </ul>
 
 [📑 ➡️ More blog posts](https://pacurar.dev/blog)
