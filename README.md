@@ -9,6 +9,7 @@
 #### Latest blog posts
 
 <ul>
+<li><a href=https://pacurar.dev/how-i-managed-to-lose-34-kilograms/>How I Managed to Lose 34 Kilograms</a></li>
 <li><a href=https://pacurar.dev/a-new-flow-for-my-blog-posts/>A new “flow” for my blog posts</a></li>
 <li><a href=https://pacurar.dev/is-it-worth-upgrading-your-iphone-every-year-a-personal-take/>Is It Worth Upgrading Your iPhone Every Year? A Personal Take</a></li>
 <li><a href=https://pacurar.dev/my-thoughts-on-vibe-coding-and-indie-hackers/>My Thoughts on Vibe Coding and Indie Hackers</a></li>
@@ -18,7 +19,6 @@
 <li><a href=https://pacurar.dev/ceac-updates-dv2025-week-4/>CEAC Updates – DV2025 week #4</a></li>
 <li><a href=https://pacurar.dev/morning-thoughts-1/>Morning thoughts #1</a></li>
 <li><a href=https://pacurar.dev/ceac-updates-dv2025-week-3/>CEAC Updates – DV2025 week #3</a></li>
-<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-2/>CEAC Updates – DV2025 week #2</a></li>
 </ul>
 
 [📑 ➡️ More blog posts](https://pacurar.dev/blog)
