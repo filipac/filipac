@@ -9,16 +9,16 @@
 #### Latest blog posts
 
 <ul>
+<li><a href=https://pacurar.dev/electric-scooters-in-my-neighborhood-and-parents-who-dont-see-the-danger/>Electric scooters in my neighborhood, and parents who don’t see the danger</a></li>
+<li><a href=https://pacurar.dev/diversity-visa-2025-a-whole-year-of-maybe-maybe-not/>Diversity Visa 2025: a whole year of “maybe, maybe not”</a></li>
+<li><a href=https://pacurar.dev/my-hidden-obsession-bags/>My Hidden Obsession: Bags</a></li>
+<li><a href=https://pacurar.dev/the-free-shuttle-scam-in-italy/>The “Free” Shuttle Scam in Italy</a></li>
+<li><a href=https://pacurar.dev/ai-made-posters-lets-not-embarrass-ourselves/>AI-made posters: let’s not embarrass ourselves</a></li>
+<li><a href=https://pacurar.dev/what-i-look-for-when-interviewing-senior-developers/>What I Look For When Interviewing Senior Developers</a></li>
+<li><a href=https://pacurar.dev/blog-revamp-spring-2026-edition/>Blog revamp – spring 2026 edition</a></li>
 <li><a href=https://pacurar.dev/how-i-managed-to-lose-34-kilograms/>How I Managed to Lose 34 Kilograms</a></li>
 <li><a href=https://pacurar.dev/a-new-flow-for-my-blog-posts/>A new “flow” for my blog posts</a></li>
 <li><a href=https://pacurar.dev/is-it-worth-upgrading-your-iphone-every-year-a-personal-take/>Is It Worth Upgrading Your iPhone Every Year? A Personal Take</a></li>
-<li><a href=https://pacurar.dev/my-thoughts-on-vibe-coding-and-indie-hackers/>My Thoughts on Vibe Coding and Indie Hackers</a></li>
-<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-7/>CEAC Updates – DV2025 week #7</a></li>
-<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-6/>CEAC Updates – DV2025 week #6</a></li>
-<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-5/>CEAC Updates – DV2025 week #5</a></li>
-<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-4/>CEAC Updates – DV2025 week #4</a></li>
-<li><a href=https://pacurar.dev/morning-thoughts-1/>Morning thoughts #1</a></li>
-<li><a href=https://pacurar.dev/ceac-updates-dv2025-week-3/>CEAC Updates – DV2025 week #3</a></li>
 </ul>
 
 [📑 ➡️ More blog posts](https://pacurar.dev/blog)
