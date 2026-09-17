@@ -9,6 +9,7 @@
 #### Latest blog posts
 
 <ul>
+<li><a href=https://pacurar.dev/a-quick-tip-for-anyone-going-into-a-technical-interview/>A Quick Tip for Anyone Going Into a Technical Interview</a></li>
 <li><a href=https://pacurar.dev/electric-scooters-in-my-neighborhood-and-parents-who-dont-see-the-danger/>Electric scooters in my neighborhood, and parents who don’t see the danger</a></li>
 <li><a href=https://pacurar.dev/diversity-visa-2025-a-whole-year-of-maybe-maybe-not/>Diversity Visa 2025: a whole year of “maybe, maybe not”</a></li>
 <li><a href=https://pacurar.dev/my-hidden-obsession-bags/>My Hidden Obsession: Bags</a></li>
@@ -18,7 +19,6 @@
 <li><a href=https://pacurar.dev/blog-revamp-spring-2026-edition/>Blog revamp – spring 2026 edition</a></li>
 <li><a href=https://pacurar.dev/how-i-managed-to-lose-34-kilograms/>How I Managed to Lose 34 Kilograms</a></li>
 <li><a href=https://pacurar.dev/a-new-flow-for-my-blog-posts/>A new “flow” for my blog posts</a></li>
-<li><a href=https://pacurar.dev/is-it-worth-upgrading-your-iphone-every-year-a-personal-take/>Is It Worth Upgrading Your iPhone Every Year? A Personal Take</a></li>
 </ul>
 
 [📑 ➡️ More blog posts](https://pacurar.dev/blog)
